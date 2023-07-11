@@ -21,7 +21,6 @@ https://github.com/pranav2305/chalchitra.ai/assets/79962251/6eca2386-4ea6-4c93-8
 4. [Technologies We Used](#technologies-we-used)
 5. [Network Diagram](#network-diagram)
 6. [Installation and Setup Guide](#installation-and-setup-guide)
-7. [Team Members](#team-members)
 
 ## Project Idea
 
@@ -120,11 +119,3 @@ To get started with Comicify.ai, follow these steps:
 
 ### Using the SadTalker Model
 Refer the [SadTalker README.md](https://github.com/pranav2305/chalchitra.ai/blob/main/server/models/SadTalker/README.md) for setup instructions
-
-## Team Members
-
-[Abhiraj Mengade](https://www.linkedin.com/in/abhiraj-mengade/)
-
-[Parth Mittal](https://www.linkedin.com/in/mittal-parth)
-
-[Pranav Agarwal](https://www.linkedin.com/in/ag-pranav)
